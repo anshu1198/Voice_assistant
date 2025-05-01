@@ -110,3 +110,17 @@ python voice_assistant.py
 
 Contributions, issues, and feature requests are welcome!  
 Feel free to open an issue or submit a pull request.
+
+---
+
+## 🖼️ Screenshots
+
+ ### Initial Screen
+![Voice Assistant Initial](./voiceassistant.jpg)
+
+### Listening Mode
+![Voice Assistant Listening](./voiceassistant1.jpg)
+
+### Recognized Speech
+![Voice Assistant Recognized](./voiceassistant2.jpg)
+
